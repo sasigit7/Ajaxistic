@@ -25,11 +25,11 @@
 
 ✔️ In response to my AJAX request, the server may return XML, JSON, or HTML string data.
 
-✔️ I parsed the response data using JavaScript/JQuery.
+✔️ I will parse the responsed data using JavaScript/JQuery.
 
-✔️ This parsed data is updated in the web page's DOM like magic
+✔️ This parsed data is updated in the web page's DOM.
 
-✔️ My web page now is updated with real-time data from the server without the browser reloading and without my knowledge.✌️
+✔️ My web page now is updated with real-time data from the server without the browser reloading.✌️
 
 ## Technologies & Tools I used for this project 🛠️
 - Front-end -> HTML, CSS, JQuery
@@ -39,5 +39,5 @@
 - Minified CSS & JS -> <a href="https://www.minifier.org/">Minify</a> 
 - Domain Registration, Web Hosting at -> <a href="https://www.ionos.co.uk/">IONOS</a>
 
-## References I used 🙏
-- <a href="https://www.google.com/">Google</a> 😜
+## References I used 🙏🙏🙏
+- <a href="https://www.google.com/">Google</a> 
