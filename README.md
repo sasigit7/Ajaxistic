@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/j896AUD.png" align="center" width="800" height="500"></img>
 </p>
 
-<p align="center"> Live Link: <a href="http://ajaxistic.co.uk alt="Ajaxistic"/>Ajaxistic</a></p>
+<p align="center"> Live Link: <a href="http://ajaxistic.co.uk" alt="Ajaxistic"/>Ajaxistic</a></p>
 
 
 ## AJAX ✏️
