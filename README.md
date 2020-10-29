@@ -1,7 +1,7 @@
 # AJAXistic => AJAX + fantaSTIC
 
 <p align="center"> 
-    <img src="https://i.imgur.com/j896AUD.png" align="center" width="800" height="500"></img>
+    <img src="https://i.imgur.com/13792LE.png" align="center" width="800" height="500"></img>
 </p>
 
 <p align="center"> Live Link: <a href="http://ajaxistic.co.uk" alt="Ajaxistic"/>Ajaxistic</a></p>
