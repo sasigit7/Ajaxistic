@@ -38,6 +38,7 @@
 - Free Favicons -> <a href="https://favicon.io/">Favicon</a>
 - Minified CSS & JS -> <a href="https://www.minifier.org/">Minify</a> 
 - Domain Registration, Web Hosting at -> <a href="https://www.ionos.co.uk/">IONOS</a>
+- Generated a report Using Chrome Dev Tools Lighthouse to improve the Page Load Performance and achieved 100% across except SEO as the site link doesn't have https. 
 
 ## References I used 🙏🙏🙏
 - <a href="https://www.google.com/">Google</a> 
